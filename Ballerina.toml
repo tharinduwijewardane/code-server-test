@@ -5,4 +5,5 @@
   distribution = "slbeta6"
   export = ["tharproj"]
   name = "tharproj"
+  version = "0.1.0"
   org = "tharinduwijewardane"
