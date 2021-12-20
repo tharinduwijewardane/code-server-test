@@ -1,0 +1,8 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "slbeta6"
+  export = ["tharproj"]
+  name = "tharproj"
+  org = "tharinduwijewardane"
